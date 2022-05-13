@@ -34,7 +34,9 @@ My name is Francesco Romeo, I'm a `Mathematical Engineering` student at Politecn
   Goal: develop an algorithm to track vehicles and pedestrians on-line in a roundabout. The main tool used is Kalman Filters 
 - ⚕️ [Heterogeneity assessment for Chemoterapy-Injured Liver in Patients with Colorectal Cancer](https://github.com/fraromeo/Chemotherapy-Associated-Liver-Injury)
   
-  Goal: Given 3D virtual biopses of livers of patients that underwent chemotherapy, understand which is the relationship between heterogeneities of the volumes and presence of CALI, also exploting clinical covariates.   
+  Goal: Given 3D virtual biopses of livers of patients that underwent chemotherapy, understand which is the relationship between heterogeneities of the volumes and presence of CALI, also exploting clinical covariates.
+ - 🏠[House Pricing Prediction] (https://github.com/fraromeo/Real_Estate)
+  Goal: Predict house pricing in a given italian city. 
 
 
 <br />
