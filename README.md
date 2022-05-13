@@ -37,7 +37,7 @@ My name is Francesco Romeo, I'm a `Mathematical Engineering` student at Politecn
   Goal: Given 3D virtual biopses of livers of patients that underwent chemotherapy, understand which is the relationship between heterogeneities of the volumes and presence of CALI, also exploting clinical covariates.
  - 🏠 [House Pricing Prediction](https://github.com/fraromeo/Real_Estate)
   
-  Goal: Predict house pricing in a given italian city. 
+   Goal: Predict house pricing in a given italian city. 
 
 
 <br />
