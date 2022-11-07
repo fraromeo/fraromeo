@@ -30,6 +30,7 @@ My name is Francesco Romeo, I'm a `Mathematical Engineering` student at Politecn
 
 ---
 - 🧠 [ODE control with Deep Q Learning](https://github.com/fraromeo/ODE_control_with_deepQlearning)
+  
   Goal: avoid extinction of a population of prey and predators by controlling the values of ODE's parameters in a reinforcement learning setting. 
 
 - 🚗 [Multi Object Tracking in Complex Urban Scenarios](https://github.com/fraromeo/Multi-Object-Tracking-in-Complex-Urban-Scenarios) : a project in collaboration with `Viscando AB`. 
