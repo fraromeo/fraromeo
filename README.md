@@ -39,7 +39,12 @@ My name is Francesco Romeo, I'm a `Mathematical Engineering` student at Politecn
 - ⚕️ [Heterogeneity assessment for Chemoterapy-Injured Liver in Patients with Colorectal Cancer](https://github.com/fraromeo/Chemotherapy-Associated-Liver-Injury)
   
   Goal: Given 3D virtual biopses of livers of patients that underwent chemotherapy, understand the relationship between heterogeneities of the volumes and presence of CALI, also exploiting clinical covariates.
- - 🏠 [House Pricing Prediction](https://github.com/fraromeo/Real_Estate)
+ 
+- 🚑 [Prediction of covid-related variables](https://github.com/fraromeo/ODE_control_with_deepQlearning)
+  
+  Goal: produce a model that is able to predict in an accurate way the values of daily new infections and recovered, as well as increment in deceased and hospitalised patients using ARIMA model and artificial neural network. 
+  
+- 🏠 [House Pricing Prediction](https://github.com/fraromeo/Real_Estate)
   
    Goal: Predict house pricing in a given Italian city. 
 
