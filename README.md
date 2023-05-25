@@ -40,7 +40,7 @@ My name is Francesco Romeo, I'm a `Mathematical Engineering` student at Politecn
   
   Goal: Given 3D virtual biopses of livers of patients that underwent chemotherapy, understand the relationship between heterogeneities of the volumes and presence of CALI, also exploiting clinical covariates.
  
-- 🚑 [Prediction of covid-related variables](https://github.com/fraromeo/ODE_control_with_deepQlearning)
+- 🚑 [Prediction of covid-related variables](https://github.com/fraromeo/covid_prediction)
   
   Goal: produce a model that is able to predict in an accurate way the values of daily new infections and recovered, as well as increment in deceased and hospitalised patients using ARIMA model and artificial neural network. 
   
