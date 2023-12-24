@@ -53,7 +53,7 @@ My name is Francesco Romeo, I'm a `Mathematical Engineering` student at Politecn
 <p align="center" style="font-weight:bold"> :adult: <b> About Me </b> :adult: <p>
 
 ---
- - 🌱 I'm currently finishing my MSc at Politecnico di Milano
+ - 🌱 I'm currently working as a Football Data Analyst at FC Internazionale Milano
  - 🌍 I love travelling. Getting to know different cultures and countries is what makes life beautiful 
  - 🇮🇹 I'm an average Italian guy: I love food and sports
  - 💭 Machine Learning and Data Science are my passions
