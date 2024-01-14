@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi, nice to meet you! 👋😄
 
-My name is Francesco Romeo, I'm a `Mathematical Engineering` student at Politecnico di Milano currently working on my master thesis for my MSc in `Statistical Learning`, in collaboration with `Viscando AB` . 
+My name is Francesco Romeo, I'm a former `Mathematical Engineering` student at Politecnico di Milano, now football data analyst at `FC Inter Milano`.  
 
 
 <br />
